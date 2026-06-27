@@ -1,99 +1,161 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1F2E,100:00B4D8&height=200&section=header&text=Abdulrhman%20Khaled&fontSize=50&fontColor=00B4D8&fontAlignY=38&desc=Mechatronics%20Technology%20Engineer&descAlignY=60&descColor=ADB5BD&animation=fadeIn" width="100%"/>
+
+<h1>👋 Hi, I'm Abdulrahman Khaled</h1>
+
+<h3>🚀 Mechatronics Technology Engineer</h3>
+
+<p>
+Mechanical Design Engineer | Embedded Systems Developer | PCB Designer | Robotics Enthusiast
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Mechatronics+Technology+Engineer;Mechanical+Design+Engineer;Embedded+Systems+Developer;PCB+Designer;Robotics+Engineer" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+
 </div>
 
-<br/>
+<hr>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Hi" width="30px"/> &nbsp; <b>About Me</b>
+<h2>👨‍💻 About Me</h2>
 
-<br/>
+<ul>
+<li>🎓 Mechatronics Technology Engineering Student</li>
+<li>⚙️ Specialized in Mechanical Design, Robotics and Embedded Systems</li>
+<li>🔬 Interested in Product Development, PCB Design and Industrial Automation</li>
+<li>📍 Egypt</li>
+<li>📧 Email: abdo606b11@gmail.com</li>
+<li>📱 Phone: 01154832664</li>
+<li>📱 Phone: 01556553877</li>
+</ul>
 
-<table>
-<tr><td><b>Name</b></td><td>Abdulrhman Khaled</td></tr>
-<tr><td><b>Age</b></td><td>23 years old</td></tr>
-<tr><td><b>Role</b></td><td>Mechatronics Technology Engineer</td></tr>
-<tr><td><b>Focus</b></td><td>Robotics · IoT · Embedded Systems · Mechanical Design</td></tr>
-<tr><td><b>Hobbies</b></td><td>Engineering Projects, Content Creation, Problem Solving</td></tr>
-</table>
+<hr>
 
-<br/>
-<hr/>
+<h2>🚀 Engineering Skills</h2>
 
-<div align="center">
-<h2>🔗 Connect With Me</h2>
+<ul>
+<li>Mechanical Design</li>
+<li>Embedded Systems</li>
+<li>PCB Design</li>
+<li>Arduino Programming</li>
+<li>Robotics Engineering</li>
+<li>Industrial Automation</li>
+<li>3D Printing</li>
+<li>Technical Content Creation</li>
+</ul>
+
+<hr>
+
+<h2>🛠️ Software & Tools</h2>
+
+<h3>Mechanical Design</h3>
+
+<p>
+<img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white">
+</p>
+
+<h3>Electronics & PCB Design</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge">
+<img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge">
+</p>
+
+<h3>Embedded Systems</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge">
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge">
+</p>
+
+<h3>Programming Languages</h3>
+
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+<h3>Development Tools</h3>
+
+<p>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</p>
+
+<hr>
+
+<h2>📂 Engineering Portfolio</h2>
+
+<ul>
+<li><a href="https://grabcad.com/abdulrahman.khaled-10">GrabCAD Portfolio</a></li>
+<li><a href="https://www.youtube.com/@AKMechanicalDesign">YouTube Channel</a></li>
+<li><a href="https://khamsat.com/user/tc_eng_abdo1">Khamsat Profile</a></li>
+</ul>
+
+<hr>
+
+<h2>🌐 Connect With Me</h2>
+
+<p>
 <a href="https://www.linkedin.com/in/abdulrhman-khaled606">
-<img src="https://img.shields.io/badge/LinkedIn-Abdulrhman%20Khaled-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Abdulrahman_Khaled-blue?style=for-the-badge&logo=linkedin">
 </a>
-&nbsp;
-<a href="https://www.youtube.com/@AKMechanicalDesign">
-<img src="https://img.shields.io/badge/YouTube-AK%20Mechanical%20Design-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-&nbsp;
+
 <a href="https://web.facebook.com/tc.eng.abdulrahman.khalid">
-<img src="https://img.shields.io/badge/Facebook-Abdulrahman%20Khalid-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-Abdulrahman_Khaled-1877F2?style=for-the-badge&logo=facebook">
 </a>
-&nbsp;
+
+<a href="https://www.youtube.com/@AKMechanicalDesign">
+<img src="https://img.shields.io/badge/YouTube-AKMechanicalDesign-FF0000?style=for-the-badge&logo=youtube">
+</a>
+
 <a href="https://grabcad.com/abdulrahman.khaled-10">
-<img src="https://img.shields.io/badge/GrabCAD-Portfolio-FF6B00?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/GrabCAD-Portfolio-orange?style=for-the-badge">
 </a>
-&nbsp;
-<a href="https://khamsat.com/user/tc_eng_abdo1">
-<img src="https://img.shields.io/badge/Khamsat-خمسات-27AE60?style=for-the-badge&logoColor=white"/>
-</a>
-</div>
-<br/>
-<hr/>
+</p>
 
-<h2>🛠️ Tools & Software</h2>
+<hr>
 
-<h3>⚙️ Engineering & Design</h3>
-<img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Proteus-1C6EA4?style=for-the-badge&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Team%20Designer-6C3483?style=for-the-badge&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/ESP-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-<br/><br/>
-
-<h3>🧠 Soft Skills</h3>
-<img src="https://img.shields.io/badge/Problem%20Solving-00B4D8?style=for-the-badge&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Communication-0A66C2?style=for-the-badge&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Negotiation-6C3483?style=for-the-badge&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Team%20Leadership-27AE60?style=for-the-badge&logoColor=white"/>
-
-<br/><br/>
-<hr/>
+<h2>📊 GitHub Statistics</h2>
 
 <div align="center">
-<h2>📊 My Activity</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=ADB5BD" width="48%"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00B4D8&ring=00B4D8&fire=FF6B6B&currStreakLabel=00B4D8" width="48%"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
+
+<br><br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight">
+
+<br><br>
+
+<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight">
+
 </div>
 
-<br/>
-<hr/>
+<hr>
+
+<h2>🎯 Current Focus</h2>
+
+<ul>
+<li>Advanced Mechanical Design</li>
+<li>Embedded Systems Development</li>
+<li>Robotics Projects</li>
+<li>PCB Design</li>
+<li>Industrial Automation</li>
+<li>Engineering Content Creation</li>
+<li>3D Printing Applications</li>
+</ul>
+
+<hr>
 
 <div align="center">
-<h2>⚡ Engineering Cycle</h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="9%"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="9%"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="9%"/>
 
-<br/>
-<i>Design → Build → Test → Repeat</i>
-<br/><br/>
+<h3>⚙️ Turning Engineering Ideas Into Real Products ⚙️</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:1A1F2E,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+<h4>⭐ Thanks for Visiting My Profile ⭐</h4>
+
 </div>
