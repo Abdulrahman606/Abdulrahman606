@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Welcome+To+My+GitHub+Profile;Abdulrahman+Khaled;Mechatronics+Technology+Engineer;Mechanical+Design+Engineer;Embedded+Systems+Developer;PCB+Designer;Robotics+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Welcome+To+My+GitHub+Profile;Abdulrahman+Khaled;Mechatronics+Technology+Engineer;Mechanical+Design+Engineer;Embedded+Systems+Developer;PCB+Designer;Robotics+Engineer"/>
 
-<br><br>
+<br>
 
 <h1>👋 Abdulrahman Khaled</h1>
 
@@ -15,27 +15,27 @@ Mechanical Design • Embedded Systems • PCB Design • Robotics • Automatio
 <br>
 
 <a href="https://www.linkedin.com/in/abdulrhman-khaled606">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://web.facebook.com/tc.eng.abdulrahman.khalid">
-<img src="https://cdn.simpleicons.org/facebook" height="50"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 <a href="https://www.youtube.com/@AKMechanicalDesign">
-<img src="https://cdn.simpleicons.org/youtube/red" height="50"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="https://grabcad.com/abdulrahman.khaled-10">
-<img src="https://cdn.simpleicons.org/autodesk" height="50"/>
+<img src="https://img.shields.io/badge/GrabCAD-Mechanical_Design-orange?style=for-the-badge"/>
 </a>
 
 <a href="https://khamsat.com/user/tc_eng_abdo1">
-<img src="https://cdn.simpleicons.org/fiverr" height="50"/>
+<img src="https://img.shields.io/badge/Khamsat-Freelancer-success?style=for-the-badge"/>
 </a>
 
 <a href="mailto:abdo606b11@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail" height="50"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -46,7 +46,7 @@ Mechanical Design • Embedded Systems • PCB Design • Robotics • Automatio
 
 <p align="center">
 I'm a Mechatronics Technology Engineer passionate about Mechanical Design,
-Embedded Systems, Robotics, PCB Design and Engineering Innovation.
+Embedded Systems, PCB Development, Robotics, Industrial Automation and Engineering Innovation.
 <br><br>
 I enjoy transforming engineering ideas into real products and sharing technical knowledge through educational content.
 </p>
@@ -67,35 +67,37 @@ I enjoy transforming engineering ideas into real products and sharing technical 
 
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
 </div>
 
 <br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,vscode,git,github"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode"/>
 
 </div>
 
 <hr>
 
-<h2 align="center">⚡ Technologies & Interests</h2>
+<h2 align="center">⚙️ Engineering Areas</h2>
 
 <div align="center">
 
 <table>
 <tr>
 <td>⚙️ Mechanical Design</td>
-<td>🤖 Robotics</td>
+<td>🤖 Robotics Engineering</td>
 </tr>
 
 <tr>
 <td>🔌 Embedded Systems</td>
-<td>📟 Arduino Projects</td>
+<td>📟 Arduino Development</td>
 </tr>
 
 <tr>
-<td>🖥️ PCB Design</td>
+<td>🖥 PCB Design</td>
 <td>🏭 Industrial Automation</td>
 </tr>
 
@@ -105,7 +107,7 @@ I enjoy transforming engineering ideas into real products and sharing technical 
 </tr>
 
 <tr>
-<td>🖨️ 3D Printing</td>
+<td>🖨 3D Printing</td>
 <td>🚀 Product Development</td>
 </tr>
 
@@ -115,31 +117,27 @@ I enjoy transforming engineering ideas into real products and sharing technical 
 
 <hr>
 
-<h2 align="center">📂 Engineering Portfolio</h2>
+<h2 align="center">📂 Portfolio & Projects</h2>
 
 <div align="center">
 
 <a href="https://grabcad.com/abdulrahman.khaled-10">
-<img src="https://img.shields.io/badge/GrabCAD-Mechanical_Design_Portfolio-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GrabCAD-Portfolio-orange?style=for-the-badge"/>
 </a>
-
-<br><br>
 
 <a href="https://www.youtube.com/@AKMechanicalDesign">
 <img src="https://img.shields.io/badge/YouTube-Engineering_Content-red?style=for-the-badge&logo=youtube"/>
 </a>
 
-<br><br>
-
 <a href="https://khamsat.com/user/tc_eng_abdo1">
-<img src="https://img.shields.io/badge/Khamsat-Freelancer-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Khamsat-Services-success?style=for-the-badge"/>
 </a>
 
 </div>
 
 <hr>
 
-<h2 align="center">📞 Contact Me</h2>
+<h2 align="center">📞 Contact Information</h2>
 
 <div align="center">
 
@@ -175,7 +173,7 @@ I enjoy transforming engineering ideas into real products and sharing technical 
 
 <hr>
 
-<h2 align="center">🎯 Current Goals</h2>
+<h2 align="center">🎯 Current Focus</h2>
 
 <div align="center">
 
@@ -187,11 +185,11 @@ I enjoy transforming engineering ideas into real products and sharing technical 
 
 <br>
 
-✅ Robotics Projects
+✅ PCB Design & Manufacturing
 
 <br>
 
-✅ PCB Design & Manufacturing
+✅ Robotics Projects
 
 <br>
 
